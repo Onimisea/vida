@@ -124,7 +124,7 @@ export function LeadCaptureForm() {
               <div className="absolute inset-0 bg-gradient-to-br from-black/50 via-transparent to-black/10 rounded-lg"></div>
             </div>
 
-            <div className="absolute -bottom-6 -right-6 bg-midnight-blue text-white p-4 rounded-lg shadow-lg">
+            <div className="absolute -bottom-6 -right-4 md:-right-6 bg-midnight-blue text-white p-4 rounded-lg shadow-lg">
               <p className="text-lg font-semibold">Site Plan</p>
               <p className="text-sm">Surulere, Lagos</p>
             </div>
